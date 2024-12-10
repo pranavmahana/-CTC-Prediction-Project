@@ -92,6 +92,6 @@ Feel free to **fork this repository** and submit pull requests if you'd like to 
 ---
 
 ## 📧 **Contact**  
-For questions or feedback, feel free to reach out at **[your email]**.  
+For questions or feedback, feel free to reach out at **[pranavmahana@gmail.com]**.  
 
 ---
